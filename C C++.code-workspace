@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C CPP Programming"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"algorithm": "cpp",
+			"cstdio": "cpp"
+		}
+	}
+}
